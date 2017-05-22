@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24in"
+   height="12in"
+   viewBox="0 0 609.59998 304.80001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="SpiceRack.svg">
+  <title
+     id="title3680">Spice Rack</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49652778"
+     inkscape:cx="350.77401"
+     inkscape:cy="571.0025"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1280"
+     inkscape:window-height="968"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:lockguides="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-midpoints="true"
+     objecttolerance="20"
+     gridtolerance="10"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3682"
+       units="in"
+       spacingx="3.175"
+       spacingy="3.175"
+       empspacing="8"
+       visible="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Spice Rack</dc:title>
+        <dc:date>2017-05-21</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Donald Willingham</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>English</dc:language>
+        <dc:description>Spice Rack Shelf
+Dimensions should be 10.25 inches deep by 10.5 inches wide</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,7.8000168)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.408093,277.98908 31.747822,-0.003 c 22.083696,0.12431 31.830504,-11.24711 31.815846,-31.71445 l 0.0017,-171.311701 139.462599,0.26476 0.26643,171.181941 c 0.16163,22.03166 11.47448,31.79698 31.72619,31.72955 l 32.0573,-0.13322 -0.13157,-260.619868 -266.987714,10e-7 z"
+       id="path3684"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.26454854px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 25.4,11.117692 H 292.1 Z"
+       id="path4491"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.27847359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 19.189237,17.599989 V 277.94998 Z"
+       id="path4493"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 25.446388,284.60092 H 292.21691 Z"
+       id="path4491-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.27259624px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 298.5863,17.600104 0.18037,260.349786 z"
+       id="path4493-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
