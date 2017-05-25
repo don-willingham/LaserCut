@@ -15,9 +15,9 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="SpiceRack.svg">
+   sodipodi:docname="SpiceShelf.svg">
   <title
-     id="title3680">Spice Rack</title>
+     id="title3680">Spice Shelf</title>
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Spice Rack</dc:title>
+        <dc:title>Spice Shelf</dc:title>
         <dc:date>2017-05-21</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -73,7 +73,7 @@
           </cc:Agent>
         </dc:creator>
         <dc:language>English</dc:language>
-        <dc:description>Spice Rack Shelf
+        <dc:description>Spice Shelf
 Dimensions should be 10.25 inches deep by 10.5 inches wide</dc:description>
       </cc:Work>
     </rdf:RDF>
